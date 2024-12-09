@@ -1,6 +1,6 @@
 # IoTVulBench
 
-[English](README.md) | [中文](readme/README_zh.md)
+[English](README.md) | [中文](doc_zh/README_zh.md)
 
 IoTVulBench is an open-source benchmark dataset for IoT security research, containing firmware-related vulnerabilities and the corresponding toolkits for building firmware emulations and verifying vulnerabilities.
 
@@ -16,6 +16,10 @@ IoTVulBench is an open-source benchmark dataset for IoT security research, conta
 │   └── detail.yml    # vulnerability detail
 │……
 ```
+
+### The List Of Vulnerable Environments
+
+please refer to [vulnerabilities_list.md](vulnerabilities_list.md)
 
 ### Features
 
