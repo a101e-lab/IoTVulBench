@@ -19,7 +19,7 @@ IoTVulBench is an open-source benchmark dataset for IoT security research, conta
 
 ### The List Of Vulnerable Environments
 
-please refer to [vulnerabilities_list.md](vulnerabilities_list.md)
+please refer to [vulnerabilities list](vulnerabilities_list.md)
 
 ### Features
 

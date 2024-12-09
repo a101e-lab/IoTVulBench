@@ -19,7 +19,7 @@ IoTVulBench 是一个开源的物联网安全研究基准数据集，包含固�
 
 ### 漏洞环境列表
 
-请查看 [vulnerabilities_list_zh.md](vulnerabilities_list_zh.md)
+请查看 [漏洞清单](vulnerabilities_list_zh.md)
 
 ### 特点
 
