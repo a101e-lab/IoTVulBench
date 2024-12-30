@@ -17,7 +17,7 @@ Vulnerabilities/
 │...
 ```
 
-漏洞环境列表：请参考 [vulnerabilities list](vulnerabilities_list.md)
+漏洞环境列表：请参考 [vulnerabilities list](vulnerabilities_list_zh.md)
 
 ## 环境要求
 
